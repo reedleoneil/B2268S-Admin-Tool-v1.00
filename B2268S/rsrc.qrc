@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Desktop/asd.html</file>
+    </qresource>
+</RCC>
