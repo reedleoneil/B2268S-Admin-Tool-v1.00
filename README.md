@@ -1,9 +1,9 @@
 # B2268S-Admin-Tool-v1.00
-Unlock the admin access for the PLDT HomeBro LTE Huwawei B2268s.
+Unlock the admin access for the PLDT HomeBro LTE Huawei B2268s.
 
 
 ## Notes
-Not working for V100R001C00SPC168 please check out version [2.00](https://github.com/reedleoneil/B2268S-Admin-Tool-v2.00) for V100R001C00SPC170.
+Working only for V100R001C00SPC168 please check out version [2.00](https://github.com/reedleoneil/B2268S-Admin-Tool-v2.00) for V100R001C00SPC170.
 
 
 ## Check this out!
