@@ -7,4 +7,4 @@ Working only for V100R001C00SPC168 please check out version [2.00](https://githu
 
 
 ## Check this out!
->Fore more information, check out my thread at [symbianize](http://www.symbianize.com/showthread.php?t=1313223)
+>Fore more information, check out my thread at [mobilarian](http://www.mobilarian.com/showthread.php?t=1313223)
